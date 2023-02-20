@@ -1,2 +1,7 @@
 # sKRIPSI
 ## WEBSOCKET IV4N INTERFACE ESP32-CAM
+
+## Revisi Project
+
+dalam code simpaanwajah.ino memungkinkan gambar wajah dapat tersimpan dan tidak hilang
+karena disimpan didalam SD card
