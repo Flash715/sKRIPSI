@@ -7,6 +7,7 @@ karena disimpan didalam SD card, let's try coz code has not been tested.
 
 Refrensi
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
- <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+<a href="[http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q](https://www.youtube.com/watch?v=BDQxH3KYNpc)" target="_blank">
+ <img src="https://i3.ytimg.com/vi/BDQxH3KYNpc/maxresdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
+
