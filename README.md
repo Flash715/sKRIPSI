@@ -7,7 +7,7 @@ karena disimpan didalam SD card, let's try coz code has not been tested.
 
 Referensi
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+<a href="https://www.youtube.com/watch?v=BDQxH3KYNpc" target="_blank">
  <img src="https://i3.ytimg.com/vi/BDQxH3KYNpc/maxresdefault.jpg" alt="Watch the video" width="50%" height="50%" border="10" />
 </a>
 
@@ -15,3 +15,5 @@ Referensi
 Catch me if you can!
 ## Contact
 Ivy - sersansurip60@gmail.com
+
+
