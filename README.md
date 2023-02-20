@@ -3,5 +3,5 @@
 
 ## Revisi Project
 
-dalam code simpaanwajah.ino memungkinkan gambar wajah dapat tersimpan dan tidak hilang
+Dalam code simpaanwajah.ino memungkinkan gambar wajah dapat tersimpan dan tidak hilang
 karena disimpan didalam SD card
